@@ -1,3 +1,8 @@
+Nome: Raissa Rodrigues De Souza
+
+Nome: Andressa De Paula Andrade
+
+
 # AG2 — Classificação de Canais de Vendas
 
 Projeto desenvolvido para a atividade AG2 do Instituto Nacional de Telecomunicações (Inatel), com o objetivo de classificar canais de vendas utilizando técnicas de aprendizado de máquina.
